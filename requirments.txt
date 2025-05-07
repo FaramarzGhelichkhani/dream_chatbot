@@ -1,0 +1,8 @@
+instagrapi
+python-dotenv
+celery
+redis
+pillow
+langchain_openai
+langchain
+httpx[socks]
